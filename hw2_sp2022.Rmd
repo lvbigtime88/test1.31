@@ -1,9 +1,9 @@
 ---
 title: "Modern Data Mining, HW 2"
 author:
-- Group Member 1
-- Group Member 2
-- Group Member 3
+- Ned Butler
+- Bruce Compton
+- Dimitri Nikolaou
 date: 'Due: 11:59 PM,  Sunday, 02/13'
 output:
   pdf_document:
