@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 #1:52pmET
 #Ned, can you see this shit? if so, write below this line and the time you did it. also, plz do this in R, and upload it back.
 
-
+##Chyeah dude, I got you. I think it actually shows the time but it's 2:45
 
 
 
